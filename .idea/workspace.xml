@@ -1,7 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="774091a5-130f-47e5-abb8-8c7c11f74cd6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="myportfolio" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Y7N2tzUT3IaYi4UB9i0FvYEv0H" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="774091a5-130f-47e5-abb8-8c7c11f74cd6" name="Default Changelist" comment="" />
+      <created>1582289468120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582289468120</updated>
+      <workItem from="1582289471241" duration="2644000" />
+      <workItem from="1582709190691" duration="9615000" />
+      <workItem from="1582883431675" duration="1697000" />
+      <workItem from="1582885149293" duration="1701000" />
+      <workItem from="1583137979885" duration="7328000" />
+      <workItem from="1583231756792" duration="4173000" />
+      <workItem from="1583310568337" duration="14302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2409" y="160" key="SettingsEditor" timestamp="1582885131188">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2409" y="160" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582885131188" />
+    <state x="2358" y="146" width="1101" height="741" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1583161204387">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2358" y="146" width="1101" height="741" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583161204387" />
+    <state x="2734" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1583151853312">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2734" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583151853312" />
+    <state x="2567" y="187" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583236855896">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2567" y="187" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583236855896" />
+    <state x="2693" y="252" width="672" height="677" key="run.anything.popup" timestamp="1583337070402">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2693" y="252" width="672" height="677" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583337070402" />
+    <state x="2719" y="253" width="672" height="678" key="search.everywhere.popup" timestamp="1583327805605">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2719" y="253" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583327805605" />
   </component>
 </project>
